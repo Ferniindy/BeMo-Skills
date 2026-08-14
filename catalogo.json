@@ -1,0 +1,20 @@
+[
+  {
+    "name": "resumen_diario",
+    "title": "Resumen Diario (Integration Wizard)",
+    "description": "Skill de orquestación matutina que actúa como un Asistente de Integración la primera vez para mapear las herramientas del gestor, y luego como un resumen dinámico automatizado.",
+    "keywords": [
+      "resumen",
+      "buenos dias",
+      "agenda",
+      "tareas",
+      "leads",
+      "pruebas",
+      "clases",
+      "hoy",
+      "manana",
+      "calendar",
+      "notion"
+    ]
+  }
+]
